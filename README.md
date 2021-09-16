@@ -1,1 +1,1 @@
-# dumb-stickman-archer
+# project-C24-template
